@@ -13,8 +13,10 @@ I already test anything to set password on boot, but it can't. so after vps turn
 
 Tested : 
 - Upcloud (work with autorun script)
+- host vds worked
 - Linode **(NOT WORK)**
 - Vultr thanks to [wangzhiyong2019](https://github.com/sap471/vps-mikrotik-install/issues/1)
 
 Not Tester :
 - Digital Ocean
+-
