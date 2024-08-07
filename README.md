@@ -14,7 +14,8 @@ I already test anything to set password on boot, but it can't. so after vps turn
 Tested : 
 - Upcloud (work with autorun script)
 - Linode **(NOT WORK)**
-- Vultr thanks to [wangzhiyong2019](https://github.com/sap471/vps-mikrotik-install/issues/1)
+- Vultr thanks to [wangzhiyong2019](https://github.com/sap471/vps-mikrotik-install/issues/1
+- hostvds already install ubuntu 20.04
 
 Not Tester :
 - Digital Ocean
